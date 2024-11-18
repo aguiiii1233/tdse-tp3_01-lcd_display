@@ -1,4 +1,5 @@
 //=====[#include guards - begin]===============================================
+#include "mbed.h"
 
 #ifndef _DISPLAY_H_
 #define _DISPLAY_H_
